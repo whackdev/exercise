@@ -1,0 +1,11 @@
+{
+  "name": "exercise-tracker",
+  "version": "1.0.0",
+  "description": "Track your excersises. Freecodecamp challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Forlivio <whackdev@gmail.com>",
+  "license": "ISC"
+}
